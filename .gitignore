@@ -1,0 +1,4 @@
+node_modules/
+test/db*
+bench/db*
+*.sw*

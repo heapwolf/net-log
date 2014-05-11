@@ -1,0 +1,17 @@
+{
+  "name": "net-log",
+  "version": "0.1.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "mocha --recursive test --bail --colors --reporter spec --debug -u tdd --log true"
+  },
+  "author": "hij1nx",
+  "license": "MIT",
+  "dependencies": {
+    "monotonic-timestamp": "0.0.8"
+  },
+  "devDependencies": {
+    "level": "^0.18.0"
+  }
+}
