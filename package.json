@@ -9,6 +9,7 @@
   "author": "hij1nx",
   "license": "MIT",
   "dependencies": {
+    "json-stringify-safe": "^5.0.0",
     "monotonic-timestamp": "0.0.8"
   },
   "devDependencies": {

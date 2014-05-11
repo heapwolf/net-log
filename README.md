@@ -112,6 +112,7 @@ server.on('log', function(data, info) {
 ```
 
 ## SERVER API
+`createServer` returns an event emitter that will emit `log` or `error`.
 
 ### `createServer(<options>)`
 **`[port]`**
