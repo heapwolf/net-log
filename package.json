@@ -12,6 +12,7 @@
     "monotonic-timestamp": "0.0.8"
   },
   "devDependencies": {
-    "level": "^0.18.0"
+    "level": "^0.18.0",
+    "mocha": "^1.18.2"
   }
 }
