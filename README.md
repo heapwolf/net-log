@@ -36,6 +36,9 @@ udp x 1,336,037 ops/sec ±42.31% (35 runs sampled)
 fs x 73,242 ops/sec ±1.44% (74 runs sampled)
 ```
 
+The above benchmarks were run on `Darwin 13.1.0 Darwin Kernel Version 13.1.0` 
+using node `v0.10.28`.
+
 # USAGE
 
 ## CLIENT EXAMPLE
