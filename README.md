@@ -30,6 +30,12 @@ tcp-function enabled x 441,418 ops/sec ±37.98% (51 runs sampled)
 udp-setter enabled x 46,784,099 ops/sec ±0.99% (84 runs sampled)
 ```
 
+Logging to the file system is expensive.
+```
+udp x 1,336,037 ops/sec ±42.31% (35 runs sampled)
+fs x 73,242 ops/sec ±1.44% (74 runs sampled)
+```
+
 # USAGE
 
 ## CLIENT EXAMPLE
